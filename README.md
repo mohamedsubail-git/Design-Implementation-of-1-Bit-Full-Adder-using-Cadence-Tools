@@ -42,7 +42,8 @@ The aim is to design and implement a 1-bit Full Adder using Cadence Virtuoso and
 
 ## Schematic Diagram
 ### 1. Schematic of 1-Bit Full Adder:
-<img width="1209" height="656" alt="image" src="https://github.com/user-attachments/assets/6de26df6-de22-4817-abaa-6541155a957c" />
+<img width="1920" height="1200" alt="Screenshot 2026-05-23 144359" src="https://github.com/user-attachments/assets/9da3b4a6-39bd-4a98-8b58-2391c9298078" />
+
 
 
 ![image](https://github.com/user-attachments/assets/1a962018-9d6b-4246-ab5f-424602551e87)
